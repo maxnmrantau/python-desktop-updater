@@ -1,0 +1,14 @@
+{
+  "latest_version": "2.0.0",
+  "min_required_version": "1.0.0",
+  "download_url": "https://drive.google.com/drive/folders/contoh-id-folder-gdrive-anda?usp=sharing",
+  "release_date": "2026-08-27",
+  "title": "Pembaruan Versi 2.0.0 Tersedia!",
+  "changelog": [
+    "⚡ Peningkatan performa aplikasi hingga 50%",
+    "🎨 Desain antarmuka baru dengan tema Dark & Light modern",
+    "🛠️ Perbaikan masalah koneksi dan sinkronisasi data",
+    "✨ Fitur export data ke format Excel dan PDF"
+  ],
+  "is_force_update": false
+}
