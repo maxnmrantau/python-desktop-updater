@@ -147,8 +147,3 @@ Ketika Anda membuat versi baru untuk aplikasi Anda:
    - Perbarui catatan perbaikan di kolom `changelog`.
 3. **Selesai!** Semua pengguna yang membuka aplikasi versi lama akan langsung mendapatkan pop-up notifikasi pembaruan secara otomatis.
 
----
-
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE). Bebas digunakan dan dimodifikasi untuk proyek pribadi maupun komersial.
