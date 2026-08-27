@@ -1,3 +1,5 @@
+<img width="638" height="508" alt="20260827-142848" src="https://github.com/user-attachments/assets/a4434c9e-45d0-4e37-98e6-5d061ddb6772" />
+
 # 🚀 Python Desktop Auto-Updater
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
